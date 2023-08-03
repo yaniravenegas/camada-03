@@ -1,4 +1,5 @@
 # camada-03
-Untracked :balloon:
-Modified :bamboo:
-Added :ticket:
+
+- **_Untracked :balloon:_**
+- **_Modified :bamboo:_**
+- **_Added :ticket:_**
